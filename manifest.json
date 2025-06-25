@@ -1,0 +1,15 @@
+{
+    "name": "Calculadora BU",
+    "short_name": "Calculadora BU",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#F03C2E",
+    "icons": [
+        {
+            "src": "calculadora_bu_icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
